@@ -53,3 +53,7 @@ dkms.conf
 
 # Bazel
 bazel-*
+
+# test-determinism script
+out.first
+out.second
